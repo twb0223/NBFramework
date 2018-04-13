@@ -11,3 +11,9 @@
 /src/NBFramework/NB.Application/obj
 /src/NBFramework/.vs
 /.vs
+/src/NBFramework/NB.Application/bin/Debug/netstandard2.0
+/src/NBFramework/NB.Code/bin/Debug/netstandard2.0
+/src/NBFramework/NB.Data/bin/Debug/netstandard2.0
+/src/NBFramework/NB.Domain/bin/Debug/netstandard2.0
+/src/NBFramework/NB.Repository/bin/Debug/netstandard2.0
+/src/NBFramework/NB.Web/bin/Debug/netcoreapp2.0
