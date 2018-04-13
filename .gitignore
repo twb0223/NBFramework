@@ -1,0 +1,13 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/src/NBFramework/NB.Web/obj
+/src/NBFramework/NB.Repository/obj
+/src/NBFramework/NB.Mapping/obj
+/src/NBFramework/NB.Domain/obj
+/src/NBFramework/NB.Data/obj
+/src/NBFramework/NB.Code/obj
+/src/NBFramework/NB.Application/obj
+/src/NBFramework/.vs
+/.vs
